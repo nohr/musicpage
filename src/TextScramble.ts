@@ -1,5 +1,5 @@
-const laugh = "😂";
-const chars = `+#:${laugh}`;
+const laugh = "†";
+const chars = `+#:😂${laugh}`;
 
 export default class TextScramble {
   chars: string;
@@ -60,4 +60,3 @@ export default class TextScramble {
     return this.chars[Math.floor(Math.random() * this.chars.length)];
   }
 }
-
