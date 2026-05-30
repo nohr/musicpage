@@ -126,7 +126,7 @@ export const ascii = `<div><span>
     _,,ÖssSSSSSSssss···,_    ^^§§,  😂😂😂😂 ,§§^^    _,···ssssSSSSSSssÖ,,_
 ,-§^  ,s§$$§^          ^§§s,     . . . : . . .     ,s§§^          ^§$$§s,  ^§-,
      ,§ $'                  '            '         '                  '$ §,
-    <a href="aitenoria.com" style="text-decoration:none">^§$$§s,         😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂         ,s§$$§^
+    <a href="https://aitenoria.com" rel="noopener" style="text-decoration:none">^§$$§s,         😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂         ,s§$$§^
         ^§$$§s,       😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂        ,s§$$§^
              ^§§s,     😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂      ,s§§^</a>
                 $$                                            $$
